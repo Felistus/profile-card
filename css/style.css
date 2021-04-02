@@ -1,0 +1,67 @@
+body{
+    background-color: hsl(185, 75%, 39%);
+    background-image: url("../images/bg-pattern-top.svg"); 
+    background-image: url("../images/bg-pattern-bottom.svg");
+    background-size: 65%;
+    background-position: top right;
+    background-repeat: no-repeat;
+    font-family: 'Kumbh Sans', sans-serif;
+    color: hsl(227, 10%, 46%);
+    font-weight: 400;
+    font-size: 18px;
+}
+.card{
+    width: 18rem;
+    border: 1px solid white;
+    border-radius: 8px;
+    background-color: #fff;
+    margin: 140px auto 10vh auto;
+    padding: 0;
+}
+#bubbles{
+    width: 100%;
+}
+#profile-pix{
+    width: 6rem;
+    border: 5px solid white;
+    border-radius: 100%;
+}
+
+.span{
+    margin-top: -45px;
+    margin-bottom: 0;
+    text-align: center;
+}
+.details{
+    text-align: center;
+    margin-top: -20px;
+}
+#name, .num{
+    color: #000;
+    font-weight: 700;
+}
+.social{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    padding: 0;
+}
+.social-item{
+    padding: 0 15px;
+    cursor: pointer;
+    margin: 0;
+}
+.num{
+    margin-bottom: 0;
+}
+.tag{
+    margin-top: 5px;
+    text-transform: capitalize;
+}
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
