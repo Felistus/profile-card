@@ -24,8 +24,8 @@ The Profile Card Component is a sample design/layout of a typical user profile f
 
 ### Screenshot
 
-![Desktop preview](./design/Desktop.png)
-![Mobile preview](./design/Mobile.jpg)
+[Desktop preview](./design/Desktop.png)
+[Mobile preview](./design/Mobile.jpg)
 
 ### Links
 
